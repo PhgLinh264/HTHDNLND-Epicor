@@ -62,13 +62,6 @@ Nội dung bài làm đi từ khái quát đến chi tiết, bao gồm giới th
 
 ---
 
-## 🏫 Course Information
-- **Course**: Enterprise Resource Planning (ERP)  
-- **Instructor**: Dr. Vu Quoc Thong  
-- **Class**: IM2203  
-
----
-
 ## 📖 Introduction
 This term paper focuses on **Epicor ERP**, a widely implemented enterprise resource planning system.  
 The report covers both general and detailed aspects, including system introduction, deployment partner in Vietnam, implementation process, and real-world case analysis.  
